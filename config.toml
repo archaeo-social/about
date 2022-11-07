@@ -34,7 +34,7 @@ logo = "images/rice.svg"
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/archaeo.social"
+url = "https://github.com/archaeo-social"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
