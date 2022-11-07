@@ -24,7 +24,7 @@ palette = "gruvbox-dark"
 [params.about]
 title = "archaeo.social"
 description = "Decentralised social media for archaeology"
-logo = "images/rice.svg"
+logo = "tablet.png"
 
 # Sidebar: social links
 # Available icon sets:
