@@ -102,7 +102,7 @@ menu:
       url: /services
       weight: 10
     - identifier: opencollective
-      name: contribute
+      name: donate
       url: https://opencollective.com/archaeosocial
       weight: 30
 
