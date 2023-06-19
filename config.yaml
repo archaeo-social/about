@@ -63,7 +63,7 @@ params:
     buttons:
       - name: Services
         url: services
-      - name: Contribute
+      - name: Donate
         url: https://opencollective.com/archaeosocial
 
   socialIcons:
