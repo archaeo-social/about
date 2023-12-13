@@ -18,10 +18,10 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: archaeo.social
   description: "Open, federated social media for archaeology"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  #keywords: [Blog, Portfolio, PaperMod]
+  #author: Me
+  #author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -63,6 +63,8 @@ params:
     buttons:
       - name: Services
         url: services
+      - name: Status
+        url: https://status.archaeo.social
       - name: Donate
         url: https://opencollective.com/archaeosocial
 
@@ -101,6 +103,10 @@ menu:
       name: services
       url: /services
       weight: 10
+    - identifier: status
+      name: status
+      url: https://status.archaeo.social
+      weight: 20
     - identifier: opencollective
       name: donate
       url: https://opencollective.com/archaeosocial
