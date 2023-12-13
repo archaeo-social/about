@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -18,10 +18,10 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: archaeo.social
   description: "Open, federated social media for archaeology"
-  #keywords: [Blog, Portfolio, PaperMod]
-  #author: Me
+  keywords: ["archaeology", "social media", "fediverse", "mastodon", "matrix"]]
+  author: "archaeo.social collective"
   #author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/archaeo-social-logo.svg"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
