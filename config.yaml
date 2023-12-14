@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: archaeo.social
   description: "Open, federated social media for archaeology"
-  keywords: ["archaeology", "social media", "fediverse", "mastodon", "matrix"]]
+  keywords: ["archaeology", "social media", "fediverse", "mastodon", "matrix"]
   author: "archaeo.social collective"
   #author: ["Me", "You"] # multiple authors
   images: ["/archaeo-social-logo.svg"]
