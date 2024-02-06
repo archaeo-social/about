@@ -61,11 +61,11 @@ params:
     imageHeight: 160
     #imageTitle: my image
     buttons:
-      - name: Services
+      - name: services
         url: services
-      - name: Status
-        url: https://status.archaeo.social
-      - name: Donate
+      - name: faq
+        url: faq
+      - name: donate
         url: https://opencollective.com/archaeosocial
 
   socialIcons:
@@ -103,6 +103,10 @@ menu:
       name: services
       url: /services
       weight: 10
+    - identifier: faq
+      name: faq
+      url: /faq
+      weight: 15
     - identifier: status
       name: status
       url: https://status.archaeo.social
