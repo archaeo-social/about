@@ -11,4 +11,4 @@ We currently offer:
 * [chat.archaeo.social](https://chat.archaeo.social) – instant messaging with [Matrix](https://matrix.org/) and [Element](https://element.io/)
 * [archaeoring](https://webring.archaeo.social) – an old-school [webring](https://en.wikipedia.org/wiki/Webring) for archaeology blogs and personal websites
 
-These services are maintained by [Joe Roe](https://archaeo.social/joeroe) with support from volunteer moderators and [contributors on OpenCollective](https://opencollective.com/archaeosocial).
+These services are maintained by [Joe Roe](https://archaeo.social/@joeroe) with support from volunteer moderators and [contributors on OpenCollective](https://opencollective.com/archaeosocial).
