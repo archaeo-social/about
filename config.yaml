@@ -1,6 +1,5 @@
 baseURL: "https://about.archaeo.social/"
 title: archaeo.social
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
