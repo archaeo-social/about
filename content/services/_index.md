@@ -13,3 +13,5 @@ We currently offer:
 * [archaeo.dev](/dev/) – experimental tools for collaboration and research software development
 
 These services are maintained by [Joe Roe](https://archaeo.social/@joeroe) with support from volunteer moderators and [contributors on OpenCollective](https://opencollective.com/archaeosocial).
+
+All our services are hosted in Europe.
